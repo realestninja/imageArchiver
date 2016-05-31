@@ -1,4 +1,4 @@
-//var token = '239416712:AAGVn2fFbB2l5mlsbamMUFXbrY1nGcjLcxI';
+var token = 'token';
 
 var telegram = require('telegram-bot-api');
 var bot = new telegram ({
