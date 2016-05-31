@@ -1,0 +1,11 @@
+{
+  "name": "imageArchiver",
+  "version": "0.0.0",
+  "main": "imageArchiver.js",
+  "dependencies": {
+    "telegram-bot-api": "~1.1.0"
+  },
+  "devDependencies": {},
+  "author": "nikhil",
+  "license": "BSD-2-Clause"
+}
