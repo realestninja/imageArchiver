@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "main": "imageArchiver.js",
   "dependencies": {
-    "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.0",
-    "gulp-sourcemaps": "^1.6.0",
-    "telegram-bot-api": "~1.1.0"
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "telegram-bot-api": "~1.1.0",
+    "webpack": "^1.13.1"
   },
   "devDependencies": {},
   "author": "nikhil",

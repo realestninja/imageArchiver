@@ -1,3 +1,5 @@
+import {token} from 'token';
+
 var telegram = require('telegram-bot-api');
 var bot = new telegram ({
   token: token,
