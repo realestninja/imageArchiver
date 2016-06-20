@@ -1,6 +1,5 @@
-//import {token} from 'token';
+import {token} from 'token';
 
-var token = '';
 var telegram = require('telegram-bot-api');
 var https = require('https');
 var bot = new telegram ({
@@ -20,7 +19,7 @@ function setOptions(file_id) {
   var options = {
     host: url,
     path: path
-  }
+  };
 
   console.log(options);
 

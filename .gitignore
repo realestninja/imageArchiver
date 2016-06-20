@@ -1,7 +1,11 @@
 # Telegram Token #
 ##################
-token.js
+src/js/token.js
 
 # Node Modules #
 ################
 node_modules
+
+# Distribution #
+################
+dist

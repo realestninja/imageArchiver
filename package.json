@@ -1,15 +1,18 @@
 {
   "name": "imageArchiver",
   "version": "0.0.0",
-  "main": "imageArchiver.js",
+  "main": "main.js",
   "dependencies": {
-    "babel-core": "^6.9.1",
-    "babel-loader": "^6.2.4",
     "telegram-bot-api": "~1.1.0",
-    "babel-preset-es2015": "~6.9.0",
     "path": "~0.12.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "~6.9.0",
+    "gulp": "~3.9.1",
+    "jshint": "~2.9.2",
+    "gulp-babel": "~6.1.2",
+    "gulp-jshint": "~2.0.1"
+  },
   "author": "nikhil",
   "license": "BSD-2-Clause"
 }
